@@ -1,0 +1,17 @@
+{
+  "name": "laolnwza55",
+  "theme": "syntax",
+  "version": "1.0.1",
+  "description": "สถิติหวยลาว วิเคราะห์หวยลาว แนวทาง เลขเด็ดหวยลาว 2 ตัว 3 ตัว แม่นๆ วันนี้",
+  "keywords": [
+    "สถิติหวยลาว",
+    "วิเคราะห์หวยลาว",
+    "แนวทางหวยลาว",
+    "เลขเด็ดหวยลาววันนี้"
+  ],
+  "repository": "https://github.com/earthza550/laolnwza557",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
